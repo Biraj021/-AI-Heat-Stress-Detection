@@ -52,7 +52,7 @@ The prediction is displayed on a **real-time Streamlit Dashboard**, allowing use
 
 <p align="center">
 
-<img src="docs/architecture.png" width="900">
+<img src="https://chatgpt.com/s/m_6a58895851208191a85ce010f34b6d9f" width="900"> 
 
 </p>
 
