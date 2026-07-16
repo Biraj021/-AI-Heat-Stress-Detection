@@ -52,7 +52,7 @@ The prediction is displayed on a **real-time Streamlit Dashboard**, allowing use
 
 <p align="center">
 
-<img src="architecture.png" width="900" alt="System Architecture"> 
+<img src="architecture.png" width="900" alt="System Architecture">
 
 </p>
 ---
@@ -227,7 +227,7 @@ Returns
 Clone Repository
 
 ```bash
-git clone https://github.com/IndrajitDutta420/AI-Heat-Stress-Detection.git
+git clone https://github.com/Biraj021/-AI-Heat-Stress-Detection.git
 ```
 
 Go to project
@@ -339,21 +339,26 @@ docs/esp32.png
 
 ---
 
-# 👨‍💻 Team
+# 👨‍💻 Contributors
 
-**Biraj Acherjee**
-
-GitHub
-
-https://github.com/Biraj021
-
----
-
-**Indrajit Dutta**
-
-GitHub
-
-https://github.com/IndrajitDutta420
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Biraj021">
+        <img src="https://avatars.githubusercontent.com/Biraj021" width="100px;" alt="Biraj Acherjee"/><br />
+        <sub><b>Biraj Acherjee</b></sub>
+      </a><br />
+      <a href="https://github.com/Biraj021">🐙 Biraj021</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/IndrajitDutta420">
+        <img src="https://avatars.githubusercontent.com/IndrajitDutta420" width="100px;" alt="Indrajit Dutta"/><br />
+        <sub><b>Indrajit Dutta</b></sub>
+      </a><br />
+      <a href="https://github.com/IndrajitDutta420">🐙 IndrajitDutta420</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
