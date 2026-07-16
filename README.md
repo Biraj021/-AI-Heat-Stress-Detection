@@ -52,7 +52,7 @@ The prediction is displayed on a **real-time Streamlit Dashboard**, allowing use
 
 <p align="center">
 
-<imgsrc="architecture.png" width="900" alt="System Architecture"> 
+<img src="architecture.png" width="900" alt="System Architecture"> 
 
 </p>
 ---
